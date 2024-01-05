@@ -1,0 +1,7 @@
+D:\VuXuanAn C23A.TH1\LapTrinhHuongDoiTuong\BT5\BT5\bin\Debug\BT5.exe.config
+D:\VuXuanAn C23A.TH1\LapTrinhHuongDoiTuong\BT5\BT5\bin\Debug\BT5.exe
+D:\VuXuanAn C23A.TH1\LapTrinhHuongDoiTuong\BT5\BT5\bin\Debug\BT5.pdb
+D:\VuXuanAn C23A.TH1\LapTrinhHuongDoiTuong\BT5\BT5\obj\Debug\BT5.csproj.AssemblyReference.cache
+D:\VuXuanAn C23A.TH1\LapTrinhHuongDoiTuong\BT5\BT5\obj\Debug\BT5.csproj.CoreCompileInputs.cache
+D:\VuXuanAn C23A.TH1\LapTrinhHuongDoiTuong\BT5\BT5\obj\Debug\BT5.exe
+D:\VuXuanAn C23A.TH1\LapTrinhHuongDoiTuong\BT5\BT5\obj\Debug\BT5.pdb
